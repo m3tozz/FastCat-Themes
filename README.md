@@ -2,7 +2,7 @@
 
 FastCat's Github Repo: <a href="https://github.com/m3tozz/FastCat">https://github.com/m3tozz/FastCat></a>
 
-Website Source Code: <a href="https://github.com/m3tozz/FastCat">https://github.com/m3tozz/FastCat></a>
+Website Source Code: <a href="https://github.com/m3tozz/FastCat-Themes/tree/gh-pages">https://github.com/m3tozz/FastCat-Themes/tree/gh-pages</a>
 
 --------------------------------------------------------------------------
 <p align="center">made by<a href="https://m3tozz.github.io/"> m3tozz</a></p>
