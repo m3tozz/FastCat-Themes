@@ -1,2 +1,8 @@
-# FastCat-Themes
-FastCat's Themes Website
+# <img src="https://github.com/user-attachments/assets/4c636831-38fd-43b8-9ab7-d154574145d9" hspace="10" width="37"  align="left"/><p><center>FastCat Themes</center>
+
+FastCat's Github Repo: <a href="https://github.com/m3tozz/FastCat">https://github.com/m3tozz/FastCat></a>
+
+Website Soruce Code: <a href="https://github.com/m3tozz/FastCat">https://github.com/m3tozz/FastCat></a>
+
+--------------------------------------------------------------------------
+<p align="center">made by<a href="https://m3tozz.github.io/"> m3tozz</a></p>
